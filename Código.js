@@ -1,3 +1,3 @@
 function myFunction() {
-  Logger.log("123")
+  Logger.log("Dante")
 }
